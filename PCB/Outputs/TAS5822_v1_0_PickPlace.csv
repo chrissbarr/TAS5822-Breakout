@@ -1,0 +1,51 @@
+Altium Designer Pick and Place Locations
+H:\Projects\PCB Design\RGB Clock\Audio - TAS5822\PCB\Outputs\TAS5822_v1_0_PickPlace.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       04/01/24
+Time:       19:34
+Revision:   aa8b8b6772820bac6b36c8e0a4a8070cfb4345d0
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R1","Resistor","TopLayer","RES_1608-0603","7.4100","27.7000","90","RES SMD 4.7K OHM 1% 1/10W 0603"
+"C11","Capacitor","TopLayer","CAPC1608X90N","9.8000","27.7000","270","CAP CER 1UF 35V X5R 0603"
+"C2","Capacitor","TopLayer","CAPC3216X100N","15.1000","10.3000","0","CAP CER 10UF 35V X5R 1206"
+"C5","Capacitor","TopLayer","CAPC1608X90N","18.3000","14.3000","180","CAP CER 0.47UF 35V X7R 0603"
+"C8","Capacitor","TopLayer","CAPC1608X90N","20.7000","17.7000","270","CAP CER 0.47UF 35V X7R 0603"
+"C16","Capacitor","TopLayer","CAPC1608X90N","15.1500","12.3000","0","CAP CER 0.1UF 50V X7R 0603"
+"C15","CapE-8.0-THT-220uF-35V","TopLayer","CAPAE250P680X1220_VERT","18.3000","4.9500","270","CAP ALUM 220UF 20% 35V RADIAL"
+"P2","Header 10X2H","TopLayer","HDR2X10H","3.0000","20.0000","270","Header, 10-Pin, Dual row, Right Angle"
+"L2","Inductor SMD 10uH 2.4A","TopLayer","SRN6045TA_SMD_Inductor","26.4000","25.5250","90","FIXED IND 4.7UH 4.2A 35 MOHM SMD"
+"C10","Capacitor","TopLayer","CAPC1608X90N","12.1000","14.1000","0","CAP CER 1UF 35V X5R 0603"
+"C9","Capacitor","TopLayer","CAPC1608X90N","11.4500","27.7000","270","CAP CER 0.1UF 50V X7R 0603"
+"C24","Capacitor","TopLayer","CAPC3216X100N","26.9000","18.8500","180","CAP CER 0.68UF 100V X7R 1206"
+"C21","Capacitor","TopLayer","CAPC3216X100N","26.9000","3.7000","0","CAP CER 0.68UF 100V X7R 1206"
+"L4","Inductor SMD 10uH 2.4A","TopLayer","SRN6045TA_SMD_INDUCTOR","26.4000","14.4750","90","FIXED IND 4.7UH 4.2A 35 MOHM SMD"
+"MH1","Screw Hole","TopLayer","M3-Hole-2","3.0000","37.0000","90",""
+"U1","TAS5822M","TopLayer","TSSOP50P640X120_HS-39N","14.4500","20.0000","270","35-W, INDUCTOR-LESS, DIGITAL INP"
+"U2","AP2112K-3.3TRG1","TopLayer","SOT23-5","9.6100","33.5000","0","IC REG LINEAR 3.3V 600MA SOT25"
+"R10","Resistor","TopLayer","RES_1608-0603","8.5000","36.5000","0","RES SMD 1K OHM 1% 1/10W 0603"
+"R8","Resistor","TopLayer","RES_1608-0603","25.0000","38.5000","180","RES SMD 10K OHM 1% 1/10W 0603"
+"P5","SPKR_RIGHT_TERM","TopLayer","TERM2_3.5mm","34.4000","13.0000","270","Screw Terminal 3.5mm 2-Way"
+"P3","SPKR_LEFT_TERM","TopLayer","TERM2_3.5mm","34.4000","27.0000","270","Screw Terminal 3.5mm 2-Way"
+"P1","PWR_TERM","TopLayer","TERM2_3.5mm","34.4000","20.0000","270","Screw Terminal 3.5mm 2-Way"
+"MH4","Screw Hole","TopLayer","M3-Hole-2","37.0000","3.0000","90",""
+"MH3","Screw Hole","TopLayer","M3-Hole-2","37.0000","37.0000","0",""
+"MH2","Screw Hole","TopLayer","M3-Hole-2","3.0000","3.0000","0",""
+"LD3","LEDG  0603","TopLayer","LED_1608-0603","8.5000","38.2000","0","LED GREEN CLEAR CHIP SMD 0603"
+"LD1","LEDG  0603","TopLayer","LED_1608-0603","28.2190","38.5000","0","LED GREEN CLEAR CHIP SMD 0603"
+"L3","Inductor SMD 10uH 2.4A","TopLayer","SRN6045TA_SMD_INDUCTOR","26.4000","8.0750","90","FIXED IND 4.7UH 4.2A 35 MOHM SMD"
+"L1","Inductor SMD 10uH 2.4A","TopLayer","SRN6045TA_SMD_INDUCTOR","26.4000","31.9250","90","FIXED IND 4.7UH 4.2A 35 MOHM SMD"
+"C18","Capacitor","TopLayer","CAPC1608X90N","12.5500","33.5000","90","CAP CER 4.7UF 16V X5R 0603"
+"C17","Capacitor","TopLayer","CAPC1608X90N","6.7100","33.5000","90","CAP CER 4.7UF 16V X5R 0603"
+"C14","Capacitor","TopLayer","CAPC3216X100N","26.9000","21.1500","180","CAP CER 0.68UF 100V X7R 1206"
+"C12","Capacitor","TopLayer","CAPC3216X100N","26.9000","36.3000","0","CAP CER 0.68UF 100V X7R 1206"
+"C7","Capacitor","TopLayer","CAPC1608X90N","15.1500","27.7000","0","CAP CER 0.1UF 50V X7R 0603"
+"C6","CapE-8.0-THT-220uF-35V","TopLayer","CAPAE250P680X1220_VERT","18.3000","35.0500","90","CAP ALUM 220UF 20% 35V RADIAL"
+"C4","Capacitor","TopLayer","CAPC1608X90N","20.7000","22.3000","90","CAP CER 0.47UF 35V X7R 0603"
+"C3","Capacitor","TopLayer","CAPC1608X90N","18.3000","25.7000","180","CAP CER 0.47UF 35V X7R 0603"
+"C1","Capacitor","TopLayer","CAPC3216X100N","15.1000","29.7000","0","CAP CER 10UF 35V X5R 1206"
