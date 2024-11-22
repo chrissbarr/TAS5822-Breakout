@@ -5,6 +5,8 @@ This is an example of a basic Bluetooth A2DP audio receiver, streaming audio to 
 
 The ESP32-A2DP library (https://github.com/pschatzmann/ESP32-A2DP) is used to configure audio streaming.
 
+![Photo](../../Images/Photo1.jpg "ESP32 Pinout")
+
 ## Required Hardware
 * ESP32 Board (original, not ESP32-S2/S3 etc., as we need Bluetooth audio support)
 * TAS5822M Breakout Board
