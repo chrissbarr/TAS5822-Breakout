@@ -37,7 +37,7 @@ The TAS5822M Breakout Board is available for purchase [here](https://aus3d.com.a
 | P2-14 | I2C_SDA | I2C Serial Data. Pullup to 3.3V is required on host board. 3.3V logic level. |
 | P2-16 | I2C_SCL | I2C Serial Clock. Pullup to 3.3V is required on host board. 3.3V logic level. |
 | P2-18 | PDN | TAS5822 Power Down Input. Driving this signal low will shutdown the TAS5822M. Must be driven high to enable operation. 3.3V logic level. |
-| P2-18 | ADR/FLT | TAS5822 Address / Fault. Resistor R1 between ADR and 3.3V sets I2C address. Replace R1 to change I2C address if required. This signal can also be monitored to detect faults. Refer to TAS5822 datasheet. 3.3V logic level. |
+| P2-20 | ADR/FLT | TAS5822 Address / Fault. Resistor R1 between ADR and 3.3V sets I2C address. Replace R1 to change I2C address if required. This signal can also be monitored to detect faults. Refer to TAS5822 datasheet. 3.3V logic level. |
 
 ## References
 * [TAS5822 Arduino Library](https://github.com/chrissbarr/TAS5822-Arduino-Library)
